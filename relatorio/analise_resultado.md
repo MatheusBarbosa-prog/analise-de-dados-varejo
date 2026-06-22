@@ -28,7 +28,7 @@ O ano de 2024 foi desafiador para a empresa:
 -------
 |
 |
-Abril
+ Abril
 |
  R$ 1.549
 |
