@@ -8,14 +8,14 @@ Dashboard de análise financeira desenvolvida com **MySQL** e **Power BI**, simu
 
 Demonstrar a integração entre banco de dados relacional e ferramenta de BI, construindo um pipeline completo de dados:
 
-**MySQL -> Queries SQL -> Power BI -> Dashboard Gerencial**
+**MySQL → Queries SQL → Power BI → Dashboard Gerencial**
 
 ---
 
 ## 🖥️ Páginas do Dashboard
 
 ### Apresentação
-![Apresentação](imagens/capa.png)
+![Capa](imagens/capa.png)
 
 Breve apresentação do dashboard.
 
