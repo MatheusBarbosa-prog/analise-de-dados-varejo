@@ -34,7 +34,7 @@ Indicadores principais da operação:
 Demonstração do Resultado do Exercício mês a mês, com evolução do lucro bruto ao longo do ano.
 
 ### Inadimplência & Clientes
-![Inadimplência](imagens/inadimplencia_clientes.png)
+![Inadimplência](imagens/inadimplencia.png)
 
 Análise de risco da carteira de clientes:
 - **Taxa de Inadimplência:** 11,14%
