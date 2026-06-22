@@ -58,31 +58,11 @@ financeiro_varejo/
 
 ## 📁 Arquivos SQL
 
-|
- Arquivo
-|
- Descrição
-|
-|
---------
-|
-----------
-|
-|
-`sql/criar_banco.sql`
-|
- Criação do banco e tabelas
-|
-|
-`sql/popular_dados.sql`
-|
- Dados fictícios para simulação
-|
-|
-`sql/queries_analises.sql`
-|
- Queries de análise usadas no Power BI
-|
+| Arquivo | Descrição |
+|---------|-----------|
+| `sql/criar_banco.sql` | Criação do banco e tabelas |
+| `sql/popular_dados.sql` | Dados fictícios para simulação |
+| `sql/queries_analises.sql` | Queries de análise usadas no Power BI |
 
 ---
 
