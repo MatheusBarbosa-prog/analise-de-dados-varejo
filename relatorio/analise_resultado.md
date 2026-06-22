@@ -17,76 +17,24 @@ O ano de 2024 foi desafiador para a empresa:
 - **Dezembro** foi o pior mês: 13º salário elevou despesas para R$ 23.000 enquanto a receita foi de apenas R$ 5.476
 
 ### Meses com resultado positivo:
-|
- Mês
-|
- Lucro
-|
-|
------
-|
--------
-|
-|
- Abril
-|
- R$ 1.549
-|
-|
- Julho
-|
- R$ 5.859
-|
-|
- Novembro
-|
- R$ 549
-|
+| Mês | Lucro |
+|-----|-------|
+| Abril | R$ 1.549 |
+| Julho | R$ 5.859 |
+| Novembro | R$ 549 |
 
 ---
 
 ## ⚠️ Inadimplência
 
 Taxa de inadimplência de **11,14%** - acima do saudável (recomendado abaixo de 5%).
+| Cliente | Valor Atrasado | % da carteira |
+|---------|---------------|---------------|
+| Comércio Rápido ME | R$ 3.200 | 19,28% |
+| Distribuidora Sul | R$ 4.500 | 39,48% |
+| Fernanda Costa | R$ 2.999 | 65,96% |
 
-### Clientes em atraso:
-|
- Cliente
-|
- Valor Atrasado
-|
- % da carteira
-|
-|
----------
-|
----------------
-|
----------------
-|
-|
- Comércio Rápido ME
-|
- R$ 3.200
-|
- 19,28%
-|
-|
- Distribuidora Sul
-|
- R$ 4.500
-|
- 39,48%
-|
-|
- Fernanda Costa
-|
- R$ 2.999
-|
- 65,96%
-|
-
-**Fernanda Costa** tem o maior risco individual - 65,96% das suas compras estão em atraso.
+**Fernanda Costa** tem o maior risco individual — 65,96% das suas compras estão em atraso.
 
 ---
 
